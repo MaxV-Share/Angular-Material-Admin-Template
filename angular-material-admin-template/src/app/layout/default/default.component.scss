@@ -1,0 +1,12 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.content {
+  padding: 20px;
+}
+.min-vh-100{
+    min-height: calc(100vh - 120px) !important;
+}
